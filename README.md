@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fortune Oguibe</h1>
-<h3 align="center">A Passionate Full Stack Developer from Nigeria</h3>
+<h3 align="center">A Passionate Software Developer from Nigeria</h3>
 
 <p align="center">
   <img src="https://img.freepik.com/free-photo/industrial-designer-digital-art_23-2151585315.jpg?t=st=1728682804~exp=1728686404~hmac=575433dfe6ad35f594b7d87a616af6ed31bef244d49e11162d8dc98d2490aa2d&w=1060" alt="Coding" width="400" style="border-radius: 10px;"/>
