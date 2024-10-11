@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-vector/tiny-developers-programming-website-internet-platform-flat-vector-illustration-cartoon-programmers-near-screen-with-open-code-script-software-development-digital-technology-concept_74855-10168.jpg?t=st=1728683587~exp=1728687187~hmac=a424f7990408d9bfd644df1815788ef159066ae1725f0397443bb2fa532e460c&w=1060)]
 <h1 align="center">Hi 👋, I'm Fortune Oguibe</h1>
 <h3 align="center">A passionate Full Stack Developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/industrial-designer-digital-art_23-2151585315.jpg?t=st=1728682804~exp=1728686404~hmac=575433dfe6ad35f594b7d87a616af6ed31bef244d49e11162d8dc98d2490aa2d&w=1060">
