@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fortune Oguibe</h1>
 <h3 align="center">A Passionate Software Developer from Nigeria</h3>
 
-<p align="center">
-  <img src="https://img.freepik.com/free-photo/industrial-designer-digital-art_23-2151585315.jpg?t=st=1728682804~exp=1728686404~hmac=575433dfe6ad35f594b7d87a616af6ed31bef244d49e11162d8dc98d2490aa2d&w=1060" alt="Coding" width="400" style="border-radius: 10px;"/>
-</p>
-
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=foguibe&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
@@ -13,11 +9,11 @@
 
 ---
 
-- 🔭 I’m currently working on **Scholar Nexus, an Educational Productivity Tool!**
+- 🔭 I’m currently working on my personal portfolio as a showcase of my technical expertise in finance technology, machine learning, and software engineering. This portfolio will demonstrate my ability to develop secure, scalable solutions and will serve as a foundation for my ongoing exploration of modern applications in finance and data science.!**
 
-- 🌱 I’m currently diving deep into **Blockchain Technology & Smart Contracts**, with a focus on fintech, digital payment systems, mobile banking, API integrations, and security protocols. I'm enhancing my skills in **TypeScript** and learning **microservices architecture** to build scalable, maintainable applications.
+- 🌱 In building my portfolio, I'm diving deep into the application of Blockchain, digital payment systems, and financial data analysis. My work reflects a solid understanding of microservices architecture and emphasizes security best practices, particularly in the context of sensitive financial applications.
 
-- 💬 Ask me about **Building full-stack applications (MERN stack, Next.js)** and **Developing secure apps with TypeScript**.
+- 💬 I’m particularly passionate about machine learning and data analytics in finance, where I'm exploring predictive modeling, risk assessment, and optimization algorithms to improve financial decision-making processes..
 
 - 📫 How to reach me: **fortune.tech.acct@gmail.com**
 
