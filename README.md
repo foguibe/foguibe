@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on my personal portfolio as a showcase of my technical expertise in finance technology, machine learning, and software engineering. This portfolio will demonstrate my ability to develop secure, scalable solutions and will serve as a foundation for my ongoing exploration of modern applications in finance and data science.!**
+- 🔭 I’m currently working on my personal portfolio as a showcase of my technical expertise in finance technology, machine learning, and software engineering. This portfolio will demonstrate my ability to develop secure, scalable solutions and will serve as a foundation for my ongoing exploration of modern applications in finance and data science.!
 
 - 🌱 In building my portfolio, I'm diving deep into the application of Blockchain, digital payment systems, and financial data analysis. My work reflects a solid understanding of microservices architecture and emphasizes security best practices, particularly in the context of sensitive financial applications.
 
