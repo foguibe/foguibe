@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fortune Oguibe</h1>
-<h3 align="center">A Passionate Software Developer from Nigeria</h3>
+<h1 align="center">Hello, I'm Fortune Oguibe</h1>
+<h3 align="center">A Passionate Software Developer from Nigeria, specializing in Fintech, Machine Learning, and Data-Driven Solutions</h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
